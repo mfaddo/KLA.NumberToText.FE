@@ -1,0 +1,22 @@
+.background {
+    background: linear-gradient(to bottom, #6297d2,#3b5998); /* Facebook blue */
+    min-height: 100vh;
+  }
+  
+  .fancy-label {
+    font-size: 18px;
+    color: #fff;
+    background: linear-gradient(to bottom, #6297d2,#3b5998);/* Green color, adjust as needed */
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+  }
+  
+ 
+  h2 {
+    font-size: 24px;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 20px; /* Add some space below the heading */
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* Add a subtle text shadow */
+  }
